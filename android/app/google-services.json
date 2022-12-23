@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427091965612",
+    "project_id": "loanee-baaloo",
+    "storage_bucket": "loanee-baaloo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427091965612:android:3a1ef4b6354b9453915109",
+        "android_client_info": {
+          "package_name": "baaloo.loanee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427091965612-50iqm8vfnblq6iabhqvk0dgs0ogf38t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGCdIj2hTGPeK9MgMR79ku6TgmKthpIZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427091965612-50iqm8vfnblq6iabhqvk0dgs0ogf38t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
